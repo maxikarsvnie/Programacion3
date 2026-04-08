@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\OneDrive\\Desktop\\Facultad\\2° año\\Programacion3\\Programacion3.csproj": {}
+    "C:\\Users\\maxik\\Desktop\\Nueva carpeta\\Tarea\\Programacion3\\Programacion3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\OneDrive\\Desktop\\Facultad\\2° año\\Programacion3\\Programacion3.csproj": {
+    "C:\\Users\\maxik\\Desktop\\Nueva carpeta\\Tarea\\Programacion3\\Programacion3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\OneDrive\\Desktop\\Facultad\\2° año\\Programacion3\\Programacion3.csproj",
+        "projectUniqueName": "C:\\Users\\maxik\\Desktop\\Nueva carpeta\\Tarea\\Programacion3\\Programacion3.csproj",
         "projectName": "Programacion3",
-        "projectPath": "C:\\Users\\acer\\OneDrive\\Desktop\\Facultad\\2° año\\Programacion3\\Programacion3.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\OneDrive\\Desktop\\Facultad\\2° año\\Programacion3\\obj\\",
+        "projectPath": "C:\\Users\\maxik\\Desktop\\Nueva carpeta\\Tarea\\Programacion3\\Programacion3.csproj",
+        "packagesPath": "C:\\Users\\maxik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxik\\Desktop\\Nueva carpeta\\Tarea\\Programacion3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maxik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
