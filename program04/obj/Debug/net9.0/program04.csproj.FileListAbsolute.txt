@@ -1,0 +1,15 @@
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\bin\Debug\net9.0\program04.exe
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\bin\Debug\net9.0\program04.deps.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\bin\Debug\net9.0\program04.runtimeconfig.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\bin\Debug\net9.0\program04.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\bin\Debug\net9.0\program04.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.AssemblyInfoInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.AssemblyInfo.cs
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.csproj.CoreCompileInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.sourcelink.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\refint\program04.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\program04.genruntimeconfig.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\program04\obj\Debug\net9.0\ref\program04.dll
