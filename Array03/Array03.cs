@@ -49,7 +49,7 @@ namespace Array03
                 Console.WriteLine("Booleano en la posicion " + i + ": " + booleanos[i]);
             }
 
-            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("Ejercicio 05.");
 
             double []  noEnteros = { 5.5, 10.5, 15.5 };

@@ -1,0 +1,15 @@
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\bin\Debug\net9.0\Array01.exe
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\bin\Debug\net9.0\Array01.deps.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\bin\Debug\net9.0\Array01.runtimeconfig.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\bin\Debug\net9.0\Array01.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\bin\Debug\net9.0\Array01.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.AssemblyInfoInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.AssemblyInfo.cs
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.csproj.CoreCompileInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.sourcelink.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\refint\Array01.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\Array01.genruntimeconfig.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\Array01\obj\Debug\net9.0\ref\Array01.dll
