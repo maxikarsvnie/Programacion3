@@ -1,2 +1,4 @@
 # Programacion3
-Repositorio de la clese de programación 3
+consigna: almacenar 20 nombres que van a ingresar los clientes con sus respectivas edades y solo aquellos que sean mayor de 20 años podran ingresar al boliche, quienes tengan menos de 30 mostrar mensaje.
+
+Solución: Se crean 2 array uno para nombres y otro para para edad los cual se realacionan por el indice de cada uno donde con uno tamaño de 20 elementos, se generan 2 for el primero para alimenta el primer array solicitando el nombre de la persona y su edad, al segundo for se le inserta un IF que compara la edad y muestra el mensaje correspondiente segun la condicion de mayor a 20 años

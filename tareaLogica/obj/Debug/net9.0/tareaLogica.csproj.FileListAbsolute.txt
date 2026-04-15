@@ -1,0 +1,15 @@
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.AssemblyInfoInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.AssemblyInfo.cs
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.csproj.CoreCompileInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.sourcelink.json
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\bin\Debug\net9.0\tareaLogica.exe
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\bin\Debug\net9.0\tareaLogica.deps.json
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\bin\Debug\net9.0\tareaLogica.runtimeconfig.json
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\bin\Debug\net9.0\tareaLogica.dll
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\bin\Debug\net9.0\tareaLogica.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.dll
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\refint\tareaLogica.dll
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\tareaLogica.genruntimeconfig.cache
+C:\Users\maxik\Desktop\Nueva carpeta\tarea\Programacion3\tareaLogica\obj\Debug\net9.0\ref\tareaLogica.dll
