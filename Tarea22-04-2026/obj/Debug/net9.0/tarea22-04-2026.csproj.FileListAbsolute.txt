@@ -1,0 +1,15 @@
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.AssemblyInfoInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.AssemblyInfo.cs
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.csproj.CoreCompileInputs.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.sourcelink.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\bin\Debug\net9.0\tarea22-04-2026.exe
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\bin\Debug\net9.0\tarea22-04-2026.deps.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\bin\Debug\net9.0\tarea22-04-2026.runtimeconfig.json
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\bin\Debug\net9.0\tarea22-04-2026.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\bin\Debug\net9.0\tarea22-04-2026.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\refint\tarea22-04-2026.dll
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.pdb
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\tarea22-04-2026.genruntimeconfig.cache
+C:\Users\maxik\Desktop\Nueva carpeta\Tarea\Programacion3\tarea22-04-2026\obj\Debug\net9.0\ref\tarea22-04-2026.dll
